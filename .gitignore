@@ -1,0 +1,5 @@
+# Ignore node_modules in server folder
+/server/node_modules
+
+# Ignore node_modules in employmentexchange folder
+/employmentexchange/node_modules
